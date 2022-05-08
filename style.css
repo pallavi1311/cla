@@ -1,0 +1,452 @@
+#nav {
+    float: right;
+    padding-top: 50px;
+
+}
+.hero {
+    text-decoration: none;
+    color: white;
+    margin-top: 40px;
+    margin-left: 20px;
+    padding-right: 20px;
+    font-weight: 700;
+    font-size: 1.2rem;
+
+}
+ .z1 {
+    height: 80px;
+    width: 80px;
+    float: left;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+ a:hover{
+                color:rgb(108, 245, 108);
+}
+#pc{
+    display: inline-block;
+    margin-top:100px;
+}
+.container{
+    padding: 0px;
+    margin: 0px;
+    }
+    #text{
+        margin-top: 100px;
+        margin-left: 30px;
+        color: white;
+    }
+    #text h1{
+        font-weight: 600;
+        font-size: 5rem;
+    }
+    #text h3{
+        font-size: 2.5rem;
+    }
+    #text p{
+        font-weight: 500;
+    }
+    #text button{
+        height: 60px;
+        width: 200px;
+        margin-right: 20px;
+        background-color: transparent;
+        border: 3px solid white;
+        color: white;
+        font-weight: 500;
+        font-size: 1rem;
+    }
+    #main{
+        background : url("./images/banner.jpg");
+        background-repeat: no-repeat;
+        min-height: 550px;
+        background-size: 100% 100%;
+        min-width:1300px;
+    }
+    #text button:hover{
+         background-color: rgb(90, 170, 90);
+    }
+    .laptop{
+              height: 300px;
+              width: 600px;
+              margin-top: 100px;
+              padding-right: 10px;
+    }
+    .d1{
+        background-color: white;
+        display: grid;
+        align-items: center;
+        text-align: center;
+       }
+       .p1{
+                    margin-top: 300px; 
+                    background-color: white;
+       }
+       .d1 img{
+           display: block;
+           margin-left: 90px ;
+           margin-right:90px;
+       }
+       .d1 h3{
+           font-weight: 600;
+           font-size: 1.5rem;
+       }
+       .d1 p{
+           font-weight:600 ;
+           font-size: 1rem;
+           justify-items: center;
+       }
+       .d1 card-body{
+           padding-top: 50px;
+           border: 1px solid green;
+           max-width: 100px;
+           
+
+       }
+       .c1{
+           margin-top: 80px;
+           border: 1px solid green;
+           border-radius: 20px;
+            margin-left: auto;
+            margin-right: 5px; 
+            
+
+       }
+        .e1{ 
+           margin-left: 80px;
+       }
+       .f1{
+           margin-right: 80px;
+        }  
+        #thr1{
+            margin-left: 130px;
+        }
+        .c2{
+            display: block;
+            display: grid;
+            margin: auto;
+            height: 150px;
+            width: 180px;
+            border-radius: 50%;
+        }
+        .r1{
+            padding-top: 80px;
+        }
+        .r1 button{
+            display: block;
+            margin: 10px auto auto;
+        }
+        .k1{
+            margin-top: 140px;
+            font-weight: 700;
+            text-decoration: underline green 1px;
+            text-underline-offset:15px ;
+        }
+        .m1{
+            margin-left: 550px;
+            margin-right: 200px;
+            margin-top: 80px;
+        }
+        .m1{
+            height: 70px;
+            width: 250px;
+            margin-right: 50px;
+            background-color: transparent;
+            border: 3px solid rgb(88, 231, 88);
+            color: rgb(88, 237, 88);
+            font-weight: 500;
+            font-size: 1.2rem
+        }
+        .m1:hover{
+            background-color: rgb(159, 238, 159);
+            color: black;
+        }
+        .b3{
+            height: 40px;
+            width: 180px;
+            background-color: black;
+            color: white;
+            border: 1px solid black;
+            font-weight: 500;
+            font-size: 1.2rem;
+        }
+        .b3:hover{
+            background-color: aquamarine;
+            border: 1px solid aquamarine;
+            animation: my-box 2s infinite;
+            transition: 2s;
+        }
+        #offer{
+            margin-top: 200px;
+            margin-left: 170px;
+            
+        }
+        .pc{
+                height: 100px;
+                width: 200px;
+                margin-top: 150px;
+                margin-right: 200px;
+            
+
+        }
+        #offer p{
+            font-size: 1.8rem;
+            font-weight: 500;
+            color: white;
+        }
+        #offer h2{
+            font-size:4rem;
+            color: white;
+        }
+        .blue{
+            background : url("./images/cross.png");
+            background-repeat: no-repeat;
+            min-height: 550px;
+            background-size: 110% auto;
+              overflow: hidden;
+            margin-top: 200px;
+        }
+        #offer button{
+            height: 60px;
+            width: 180px;
+            background-color: rgb(67, 247, 187);
+            color: white;
+            border: 1px solid rgb(52, 241, 178);
+            font-weight: 500;
+            font-size: 1rem;
+        }
+        #offer button:hover{
+                             background-color: black;
+                             border: 1px solid black;
+                             transition:2s ;
+        }
+        .laptop1{
+            height: 250px;
+            width: 550px;
+            margin-top: 100px;
+            display: flex;
+            margin: auto;
+        }
+         .k2 {
+            margin-top: 100px;
+            font-weight: 700;
+            text-decoration: underline green 1px;
+            text-underline-offset: 15px;
+        }
+        .s1{
+            margin-top: 150px;
+            margin-left: 400px;
+            font-weight: 700;
+        }
+        .s2{
+            font-weight: 500;
+            margin-top: 30px;
+            margin-left: 230px;
+        }
+        .q1{
+            margin-left: 400px;
+            font-size: 3rem;
+            margin-top: 50px;
+        
+        }
+        .k3 {
+            
+            margin-top: 100px;
+            font-weight: 700;
+            text-decoration: underline green 1px;
+            text-underline-offset: 15px;
+        }
+        .target{
+            display: flex;
+            margin: auto;
+            border:2px solid white;
+            margin-bottom: 50px;
+            width: 70%;
+            margin-top: 50px;
+            
+        
+
+        }
+        .block{
+            min-width: 800px;
+            /* margin-top: 25px; */
+            margin: 10px;
+            min-height: 50px;
+            /* text-align: center; */
+            background-color: transparent;
+            border: 2px solid white;
+            color: white;
+            display: flex;
+            margin-left: 40px;
+        }
+        .hh{
+            min-height:250px;
+        }
+        .k4{
+            margin-top: 10px;
+            font-weight: 500;
+            font-size: 2.5rem;
+            text-decoration: underline green 1px;
+            text-underline-offset: 15px;
+        }
+        .v1{
+            margin-top: 50px;
+        }
+        .cla button{
+            height: 80px;
+            width: 250px;
+            background-color: rgb(67, 247, 187);
+            color: white;
+            border: 1px solid rgb(52, 241, 178);
+            font-weight: 500;
+            font-size: 1.5rem;
+            border-radius: 40px;
+            margin-left: 350px;
+            margin-bottom: 70px;
+            margin-top: 50px;
+        }
+        .cla button:hover{
+            background-color: black;
+            border: 1px solid black;
+            transition:2s ;
+        }
+        .main2{
+            background-image: url("./images/contact_g.jpg");
+            background-repeat: no-repeat;
+            background-size: 1500px 900px;
+            overflow: hidden;
+            margin-top: 140px;
+        }
+        .block::placeholder{
+               color:black;
+        }
+        .main3{
+            background-image: url("./images/footer.jpg");
+            background-repeat: no-repeat;
+        }
+        .l1{
+            margin-top: 60px;
+            margin-left: 30px;
+        }
+        .i1{
+            color: white;
+            font-size: 35px;
+            padding-left: 10px;
+            margin-top: 40px;
+            
+        }
+        /* .l2 i{
+            
+            margin-top: 30px;
+            margin-left: 30px;
+         }  */
+         .l3{
+             margin-left: 40px;
+         }
+        .about h2{
+            color: white;
+            margin-top: 40px;
+        }
+        .about p{
+            color: white;
+            font-size: 1rem;
+            margin-top: 30px;
+            font-weight: 500;
+        
+        }
+        .about1{
+            color: white;
+            margin-top: 40px;
+        
+        }
+        .sub{
+              height: 50px;
+            background-color: rgb(67, 247, 187);
+            color: white;
+            border: 1px solid rgb(52, 241, 178);
+            font-weight: 500;
+            font-size: 1rem;
+            border-radius: 8px;
+            margin-top: 20px;
+            width: 150px;
+        }
+        .sub:hover{
+            background-color: black;
+            border: 1px solid black;
+            transition:2s ;   
+            }
+            .b1{
+                margin-left: 300px;
+                color: white;
+                font-weight: 350;
+                font-size: 1.3rem;
+                margin-top: 30px;
+            
+             }
+            .b2{
+                color: white;
+                margin-top: 100px;
+                width: 1100px;
+                margin-left: 40px;
+            }
+            /* about */
+            #main4{
+                background : url("./images/cross.png");
+                background-repeat: no-repeat;
+                 min-height: 140px;
+                background-size: 160% 150%;
+                min-width:1300px;
+                
+            }
+            .red{
+                margin-left: 70px;
+                margin-top: 100px;
+                margin-bottom: 240px;
+            }
+            .offer1 h2{
+                        font-weight: 800;
+                        font-size: 40px;
+            }
+            .offer1 p{
+                font-weight: 500 ;
+                font-size: 1rem;
+                color: gray;
+            }
+            .offer1 button{
+                height: 60px;
+            width: 190px;
+            background-color: aquamarine;
+            color: white;
+            border: 1px solid aquamarine;
+            font-weight: 500;
+            font-size: 1rem;
+            }
+            .offer1 button:hover{
+                             background-color: black;
+                             border: 1px solid black;
+                             transition:2s ;
+            }
+            /* .ab{
+                margin-right: 50px;
+            
+            }*/
+            /*laptop*/
+            .lp{
+                height: 20px;
+                width: 20px;
+            }
+            
+            
+         
+
+            
+        
+         
+         
+
+        
+
+
+
+
+
